@@ -1,4 +1,4 @@
-# Interactive web visualizations for R cheatsheet"
+# Interactive web visualizations for R cheatsheet
 
 Tianhang Cui
 
